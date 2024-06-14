@@ -32,5 +32,6 @@
 接口 https://api.bilibili.com/x/internal/gaia-gateway/ExClimbWuzhi payload 
 大概目的应该是对特定的buvid(设备码) 进行risk检测
 所以用多了大概率会有封禁措施，自己想办法绕过，这里不提供方法
+[aa](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.10.1/cmfa-2.10.1-meta-x86_64-release.apk)
 ### 部分参考 
 · [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
